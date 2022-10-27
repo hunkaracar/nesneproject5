@@ -1,0 +1,15 @@
+C:\Nesnetabanlıprogramlamaders\Nesnelab5\Nesnelab5\bin\Debug\net6.0\Nesnelab5.exe
+C:\Nesnetabanlıprogramlamaders\Nesnelab5\Nesnelab5\bin\Debug\net6.0\Nesnelab5.deps.json
+C:\Nesnetabanlıprogramlamaders\Nesnelab5\Nesnelab5\bin\Debug\net6.0\Nesnelab5.runtimeconfig.json
+C:\Nesnetabanlıprogramlamaders\Nesnelab5\Nesnelab5\bin\Debug\net6.0\Nesnelab5.dll
+C:\Nesnetabanlıprogramlamaders\Nesnelab5\Nesnelab5\bin\Debug\net6.0\Nesnelab5.pdb
+C:\Nesnetabanlıprogramlamaders\Nesnelab5\Nesnelab5\obj\Debug\net6.0\Nesnelab5.csproj.AssemblyReference.cache
+C:\Nesnetabanlıprogramlamaders\Nesnelab5\Nesnelab5\obj\Debug\net6.0\Nesnelab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nesnetabanlıprogramlamaders\Nesnelab5\Nesnelab5\obj\Debug\net6.0\Nesnelab5.AssemblyInfoInputs.cache
+C:\Nesnetabanlıprogramlamaders\Nesnelab5\Nesnelab5\obj\Debug\net6.0\Nesnelab5.AssemblyInfo.cs
+C:\Nesnetabanlıprogramlamaders\Nesnelab5\Nesnelab5\obj\Debug\net6.0\Nesnelab5.csproj.CoreCompileInputs.cache
+C:\Nesnetabanlıprogramlamaders\Nesnelab5\Nesnelab5\obj\Debug\net6.0\Nesnelab5.dll
+C:\Nesnetabanlıprogramlamaders\Nesnelab5\Nesnelab5\obj\Debug\net6.0\refint\Nesnelab5.dll
+C:\Nesnetabanlıprogramlamaders\Nesnelab5\Nesnelab5\obj\Debug\net6.0\Nesnelab5.pdb
+C:\Nesnetabanlıprogramlamaders\Nesnelab5\Nesnelab5\obj\Debug\net6.0\Nesnelab5.genruntimeconfig.cache
+C:\Nesnetabanlıprogramlamaders\Nesnelab5\Nesnelab5\obj\Debug\net6.0\ref\Nesnelab5.dll
